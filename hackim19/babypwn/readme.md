@@ -1,6 +1,6 @@
 # BabyPWN
 
-##Background
+## Background
 Kernel Sanders, my CTF team, took part in nullcom HackIM 2019 last weekend, and there were many interesting challenges. I looked at 2 main ones, and while I made progress on both I was not able to solve either during the time span. I partially blame this on the fact that I went to BSides Tampa on Saturday and only had one night to work, but Nozomi and Ryan both got solves for our team this weekend. Babypwn was a great challenge, and I learned a lot by working on it. I will link the writeups that helped me with certain parts at the bottom, but I will show my mindset and pitfalls with this challenge as well.
 
 ## First Thoughts
